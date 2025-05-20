@@ -72,7 +72,6 @@ const Hero = () => {
             justify-center sm:-ml-[3rem] xxs:mt-4"
           ></div>
 
-
           <div></div>
         </div>
         <div className="col-span-7 flex justify-end">

@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States of America",
+        "iso_a3": "USA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-122.7, 48.3],
+              [-122.7, 48.9],
+              [-66.9, 48.9],
+              [-66.9, 24.5],
+              [-122.7, 24.5],
+              [-122.7, 48.3]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "iso_a3": "BRA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-73.9, -33.7],
+              [-73.9, 5.2],
+              [-34.7, 5.2],
+              [-34.7, -33.7],
+              [-73.9, -33.7]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
